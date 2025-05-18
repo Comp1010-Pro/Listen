@@ -1,4 +1,7 @@
+
+
 public class Team {
-    private String TeamName;
-    private List<Character> characters;
+    public String teamName;
+    public List<Character> characters;
+}
 
